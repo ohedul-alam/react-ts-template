@@ -1,0 +1,17 @@
+.footer{
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #fff!important;
+  text-align: center;
+}
+.footer-content{
+    display: flex;
+    flex-direction: row !important;
+    justify-content: space-evenly;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
